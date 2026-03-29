@@ -112,30 +112,5 @@ pip install -r requirements.txt
 
 # Run the application
 python coach.py
-🎯 Use Cases
-💼 Interview preparation and coaching
 
-🧠 Behavioral analysis
-
-📈 Soft skills improvement
-
-🏥 Mental state monitoring (future scope)
-
-🔥 Key Highlights
-Lightweight ML model (no GPU required)
-
-Real-time performance
-
-Multimodal analysis (physiological + behavioral)
-
-Practical real-world application
-
-🚀 Future Work
-Integration with wearable devices
-
-Lightweight deep learning models
-
-Real-world dataset expansion
-
-Personalized emotion detection
 
