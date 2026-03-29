@@ -1,0 +1,11 @@
+# Real-Time Interview Emotion Coach — Requirements
+# Install with:  pip install -r requirements.txt
+
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+fer>=22.5.1
+numpy>=1.24.0
+
+# Optional: use DeepFace instead of FER (heavier but more accurate)
+# deepface>=0.0.79
+# tensorflow>=2.12.0
